@@ -1,4 +1,4 @@
-## Starter Project for Photo Map Exercise (Swift)
+## Photo Map
 ![Image](http://i.imgur.com/WIwqNtn.gif)
 
 - Connects with Foursquare API
